@@ -1,0 +1,35 @@
+HTML parser: PASS
+JavaScript syntax (node --check): PASS
+Unique local asset references: 29
+Asset binaries not present in this archive: 29
+
+Missing referenced image files (copy from the existing GitHub assets folder):
+assets/images/certificates/DataManagement-1.jpg
+assets/images/certificates/DataManagement-2.jpg
+assets/images/certificates/Gemini.jpg
+assets/images/certificates/Perkantoran-1.jpg
+assets/images/certificates/Perkantoran-2.jpg
+assets/images/certificates/R-1.jpg
+assets/images/certificates/R-2.jpg
+assets/images/foto-profil.jpeg
+assets/images/projects/Web-1.png
+assets/images/projects/Web-2.png
+assets/images/projects/Web-3.png
+assets/images/projects/Web-4.png
+assets/images/projects/Web-5.png
+assets/images/projects/bekantan-1.jpg
+assets/images/projects/bekantan-2.jpg
+assets/images/projects/bekantan-3.jpg
+assets/images/projects/bekantan-4.jpg
+assets/images/projects/bekantan-dashboard-operasional.jpg
+assets/images/projects/bi-1.jpg
+assets/images/projects/bi-2.jpg
+assets/images/projects/excel-1.jpg
+assets/images/projects/excel-analisis-penjualan.jpg
+assets/images/projects/powerbi-dashboard-penjualan.jpg
+assets/images/visual-works/sosmed-1.jpg
+assets/images/visual-works/sosmed-2.jpg
+assets/images/visual-works/sosmed-3.jpg
+assets/images/visual-works/sosmed-4.jpg
+assets/images/visual-works/sosmed-5.jpg
+assets/images/visual-works/sosmed-6.jpg

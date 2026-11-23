@@ -1,0 +1,14 @@
+UPLOAD CHECKLIST
+================
+
+1. Backup the current GitHub repository before replacing files.
+2. Upload index.html, styles.css, and script.js to repository root.
+3. Upload/merge the assets directory; do NOT delete existing image binaries.
+4. Keep .nojekyll in the repository root.
+5. Commit changes and wait for GitHub Pages deployment.
+6. Open the website, press Ctrl+F5, and test at 100%, 75%, 60%, 50%,
+   tablet width, and mobile width.
+
+This ZIP contains the complete website source and directory structure, but
+not the original image binaries. See ASSET-MANIFEST.txt for the image files
+that must be copied from your existing GitHub repository.

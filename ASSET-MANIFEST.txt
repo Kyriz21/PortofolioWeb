@@ -1,0 +1,65 @@
+RAHMAD PORTFOLIO — ASSET MANIFEST
+================================
+
+IMPORTANT
+---------
+This manifest lists image paths referenced by index.html and script.js.
+The folders are included in the ZIP, but the original image binaries are NOT included.
+Copy the real image files from your GitHub repository into these paths.
+Do not create zero-byte or fake image files.
+
+PROFILE
+-------
+assets/images/foto-profil.jpeg
+
+PROJECTS — CONFIRMED FILENAMES FROM USER SCREENSHOTS
+----------------------------------------------------
+assets/images/projects/Web-1.png
+assets/images/projects/Web-2.png
+assets/images/projects/Web-3.png
+assets/images/projects/Web-4.png
+assets/images/projects/Web-5.png
+
+PROJECTS — OTHER PATHS REFERENCED BY CURRENT CODE
+-------------------------------------------------
+assets/images/projects/bekantan-dashboard-operasional.jpg
+assets/images/projects/bekantan-1.jpg
+assets/images/projects/bekantan-2.jpg
+assets/images/projects/bekantan-3.jpg
+assets/images/projects/bekantan-4.jpg
+assets/images/projects/powerbi-dashboard-penjualan.jpg
+assets/images/projects/bi-1.jpg
+assets/images/projects/bi-2.jpg
+assets/images/projects/excel-analisis-penjualan.jpg
+assets/images/projects/excel-1.jpg
+
+CERTIFICATES — FILENAMES CONFIRMED FROM USER SCREENSHOT
+-------------------------------------------------------
+assets/images/certificates/DataManagement-1.jpg
+assets/images/certificates/DataManagement-2.jpg
+assets/images/certificates/Perkantoran-1.jpg
+assets/images/certificates/Perkantoran-2.jpg
+assets/images/certificates/R-1.jpg
+assets/images/certificates/R-2.jpg
+assets/images/certificates/Gemini.jpg
+
+BNSP OFFICE ADMINISTRATIVE
+--------------------------
+No certificate image is referenced in the current page. The card shows an
+in-progress notice because the competency certificate is still being issued.
+
+VISUAL WORKS — PATHS REFERENCED BY CURRENT CODE
+-----------------------------------------------
+assets/images/visual-works/sosmed-1.jpg
+assets/images/visual-works/sosmed-2.jpg
+assets/images/visual-works/sosmed-3.jpg
+assets/images/visual-works/sosmed-4.jpg
+assets/images/visual-works/sosmed-5.jpg
+assets/images/visual-works/sosmed-6.jpg
+
+CHECK BEFORE DEPLOYMENT
+-----------------------
+1. Verify each filename matches exactly (including uppercase/lowercase).
+2. Verify that every referenced image exists in the matching folder.
+3. If your actual filenames differ, either rename them or update the src paths
+   in index.html / script.js.

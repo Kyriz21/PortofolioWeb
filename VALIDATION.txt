@@ -1,0 +1,3 @@
+JavaScript syntax check: PASS
+
+Reminder: image paths and browser behavior should still be tested on GitHub Pages.
