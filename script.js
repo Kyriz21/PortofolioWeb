@@ -5,7 +5,7 @@
       name: "Rahmad Rizky Fauzi",
       email: "rahmadrizky22@gmail.com",
       linkedin: "", // Tambahkan URL profil LinkedIn jika ingin ditampilkan.
-      github: "https://github.com/Kyri21",
+      github: "https://github.com/Kyriz21",
       instagram: "" // Opsional.
     };
 
